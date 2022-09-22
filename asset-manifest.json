@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devdynamic-app/static/css/main.bfa61a6f.css",
+    "main.js": "/devdynamic-app/static/js/main.d4bd911b.js",
+    "index.html": "/devdynamic-app/index.html",
+    "main.bfa61a6f.css.map": "/devdynamic-app/static/css/main.bfa61a6f.css.map",
+    "main.d4bd911b.js.map": "/devdynamic-app/static/js/main.d4bd911b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa61a6f.css",
+    "static/js/main.d4bd911b.js"
+  ]
+}
